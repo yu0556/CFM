@@ -1,0 +1,47 @@
+proxies:
+  - name: tx8089
+    type: vmess
+    server: 175
+    port: 8089
+    uuid: e3f0a55a-f30e-432d-a2ee-8da01f0905ca
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: wap.sc.189.cn   
+        
+  - name: tx8090
+    type: vmess
+    server: 175
+    port: 8090
+    uuid: e3f0a55a-f30e-432d-a2ee-8da01f0905ca
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: wap.sc.189.cn         
+        
+            
+  - name: tx8088
+    type: vless
+    server: 175
+    port: 8088
+    uuid: e3f0a55a-f30e-432d-a2ee-8da01f0905ca
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: wap.sc.189.cn  
+        
+        
