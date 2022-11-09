@@ -36,19 +36,14 @@ proxies:
     port: 8088
     uuid: e3f0a55a-f30e-432d-a2ee-8da01f0905ca
     alterId: 0
-    tls: false
-    tfo: true
-    udp: true
     cipher: auto
-    skip-cert-verify: true
-    vmess-aead: true
-    network: http
-    http-opts:
-      path:
-        - /
+    udp: true
+    tls: false
+    network: ws
+    ws-opts:
+      path: /
       headers:
-        method: GET
-        Host:
-          - wap.sc.189.cn   
+        Host: wap.sc.189.cn         
+        
         
         
