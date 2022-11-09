@@ -1,7 +1,7 @@
 proxies:
   - name: tx8089
     type: vmess
-    server: 175
+    server: 175.178.3.21
     port: 8089
     uuid: e3f0a55a-f30e-432d-a2ee-8da01f0905ca
     alterId: 0
@@ -12,11 +12,11 @@ proxies:
     ws-opts:
       path: /
       headers:
-        Host: wap.sc.189.cn   
+        Host: a.189.cn  
         
   - name: tx8090
     type: vmess
-    server: 175
+    server: 175.178.3.21
     port: 8090
     uuid: e3f0a55a-f30e-432d-a2ee-8da01f0905ca
     alterId: 0
@@ -27,12 +27,12 @@ proxies:
     ws-opts:
       path: /
       headers:
-        Host: wap.sc.189.cn         
+        Host: a.189.cn    
         
             
   - name: tx8088
     type: vmess
-    server: 175
+    server: 175.178.3.21
     port: 8088
     uuid: e3f0a55a-f30e-432d-a2ee-8da01f0905ca
     alterId: 0
@@ -43,7 +43,7 @@ proxies:
     ws-opts:
       path: /
       headers:
-        Host: wap.sc.189.cn         
+        Host: a.189.cn     
         
         
         
