@@ -30,18 +30,25 @@ proxies:
         Host: wap.sc.189.cn         
         
             
-  - name: tx8088
-    type: vless
-    server: 175
-    port: 8088
-    uuid: e3f0a55a-f30e-432d-a2ee-8da01f0905ca
-    cipher: auto
-    udp: true
+  - name: "tx8088"
+    type: "vmess"
+    server: "175"
+    port: "8088"
+    uuid: "e3f0a55a-f30e-432d-a2ee-8da01f0905ca"
+    alterId: 0
     tls: false
-    network: ws
-    ws-opts:
-      path: /
+    tfo: true
+    udp: true
+    cipher: auto
+    skip-cert-verify: true
+    vmess-aead: true
+    network: "http"
+    http-opts:
+      path:
+        - "/"
       headers:
-        Host: wap.sc.189.cn  
+        method: "GET"
+        Host:
+          - wap.sc.189.cn  
         
         
