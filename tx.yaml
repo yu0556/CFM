@@ -11,8 +11,7 @@ proxies:
     network: ws
     ws-opts:
       path: /
-      headers:
-        Host: a.189.cn  
+      headers: { Host: wap.sc.189.cn }  
         
   - name: tx8090
     type: vmess
@@ -26,8 +25,7 @@ proxies:
     network: ws
     ws-opts:
       path: /
-      headers:
-        Host: a.189.cn    
+      headers: { Host: wap.sc.189.cn }    
         
             
   - name: tx8088
@@ -42,8 +40,7 @@ proxies:
     network: ws
     ws-opts:
       path: /
-      headers:
-        Host: a.189.cn     
+      headers: { Host: wap.sc.189.cn }     
         
         
         
