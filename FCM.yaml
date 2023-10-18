@@ -35,6 +35,8 @@ payload:
   - IP-CIDR,173.194.175.188/32,no-resolve
   - IP-CIDR,173.194.218.188/32,no-resolve
   - IP-CIDR,209.85.233.188/32,no-resolve
+  - DOMAIN-KEYWORD,ctyun
+  - DOMAIN-KEYWORD,lanzou
   # - DOMAIN-SUFFIX,xiaomi.com
   # - DOMAIN-SUFFIX,alicloudccp.com
   # - DOMAIN-SUFFIX,googleapis.cn
