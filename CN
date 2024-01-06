@@ -1,0 +1,9 @@
+# NAME: CN
+payload:
+  # - DOMAIN,mtalk.google.com
+  # - IP-CIDR,64.233.177.188/32,no-resolve
+  # - DOMAIN-SUFFIX,googleapis.cn
+  - DOMAIN-KEYWORD,ctyun
+  - DOMAIN-KEYWORD,lanzou
+  - PROCESS-NAME,com.tencent.mm
+  - PROCESS-NAME,com.emay.wxsy.topon
