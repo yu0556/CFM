@@ -6,7 +6,7 @@ baidu: &baidu
     X-T5-Auth: "683556433"
     Host: 153.3.236.22:443
     User-Agent:
-      "okhttp/3.11.0 Dalvik/2.1.0 (Linux; U; Android 11; Redmi K30 5G Build/RKQ1.200826.002)
+      "okhttp/3.11.0 Dalvik/2.1.0 (Linux; U; Android 11; Redmi K50 5G Build/RKQ1.200826.002)
       baiduboxapp/11.0.5.12 (Baidu; P1 11)"
 proxies:
   - name: "🇨🇳广州"
