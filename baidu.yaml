@@ -9,15 +9,18 @@ baidu: &baidu
       "okhttp/3.11.0 Dalvik/2.1.0 (Linux; U; Android 11; Redmi K30 5G Build/RKQ1.200826.002)
       baiduboxapp/11.0.5.12 (Baidu; P1 11)"
 proxies:
-  - name: "🇨🇳北京电信"
-    server: 220.181.111.189
+  - name: "🇨🇳广州"
+    server: 14.215.182.75
     <<: *baidu
-  - name: "🇨🇳苏州电信"
-    server: 180.97.93.202
+  - name: "🇨🇳中山"
+    server: 14.215.182.75
     <<: *baidu
-  - name: "🇨🇳苏州联通"
-    server:  157.0.148.53
+  - name: "🇨🇳合肥"
+    server:  180.101.50.208
     <<: *baidu
+  - name: "🇨🇳香港"
+    server:  163.177.17.189
+    <<: *baidu    
   - name: "🇨🇳百度动态"
     server: cloudnproxy.baidu.com
     <<: *baidu
