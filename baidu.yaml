@@ -12,17 +12,14 @@ proxies:
   - name: "🇨🇳广州"
     server: 14.215.182.75
     <<: *baidu
-  - name: "🇨🇳江苏"
-    server: 180.101.50.249
-    <<: *baidu
-  - name: "🇨🇳天津"
-    server:  220.181.111.189
-    <<: *baidu
-  - name: "🇨🇳上海"
-    server:  180.101.50.208
-    <<: *baidu    
   - name: "🇨🇳百度动态"
     server: cloudnproxy.baidu.com
+    <<: *baidu
+  - name: "🇨🇳南京"
+    server: 180.101.50.249
+    <<: *baidu
+  - name: "🇨🇳江苏"
+    server: 180.101.50.208
     <<: *baidu
   - name: "🇨🇳WAP"
     type: http
