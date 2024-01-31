@@ -5,6 +5,7 @@ payload:
   # - DOMAIN-SUFFIX,googleapis.cn
   - DOMAIN-KEYWORD,ctyun
   - DOMAIN-KEYWORD,lanzou
+  - DOMAIN-KEYWORD,123pan
   - DOMAIN-KEYWORD,osslan
   - PROCESS-NAME,com.tencent.mm
   - PROCESS-NAME,com.emay.wxsy.topon
