@@ -23,6 +23,12 @@ proxies:
     server: 180.101.50.208
     <<: *baidu
   - name: "🇨🇳WAP"
-    type: http
     server: 10.0.0.200
+    type: http
     port: 80
+    headers:
+      X-T5-Auth: "180.96.49.48:80"
+      Host: "180.96.49.48:80"
+      User-Agent:
+        "okhttp/3.11.0 Dalvik/2.1.0 (Linux; U; Android 11; Redmi K50 5G Build/RKQ1.200826.002)
+        baiduboxapp/11.0.5.12 (Baidu; P1 11)"
