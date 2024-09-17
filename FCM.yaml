@@ -4,6 +4,7 @@ payload:
   # - IP-CIDR,64.233.177.188/32,no-resolve
   # - DOMAIN-SUFFIX,googleapis.cn
   - DOMAIN-KEYWORD,google,国外
-  - DOMAIN-KEYWORD,microsoft,国外
+  - DOMAIN-KEYWORD,microsoft,国内
   - DOMAIN-KEYWORD,github,国外
-  - PROCESS-NAME,com.github.android
+  - PROCESS-NAME,com.github.android, 国外
+  - DOMAIN-SUFFIX,windows.com, 国内
