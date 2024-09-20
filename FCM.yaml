@@ -8,3 +8,11 @@ payload:
   - PROCESS-NAME,com.tencent.mm
   - PROCESS-NAME,com.coolapk.market
   - PROCESS-NAME,com.miHoYo.HSoDv2.mix
+  - DOMAIN-SUFFIX,wwentua.com
+  - DOMAIN-KEYWORD,ctyun
+  - DOMAIN-KEYWORD,lanzou
+  - DOMAIN-KEYWORD,wwentua
+  - DOMAIN-KEYWORD,123pan
+  - DOMAIN-KEYWORD,osslan
+  - PROCESS-NAME,com.emay.wxsy.topon
+  - DOMAIN-SUFFIX,windows.com
