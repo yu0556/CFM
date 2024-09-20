@@ -5,6 +5,6 @@ payload:
   # - DOMAIN-SUFFIX,googleapis.cn
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,microsoft
-  - DOMAIN-KEYWORD,github
-  - PROCESS-NAME,com.github.android
-  
+  - PROCESS-NAME,com.tencent.mm
+  - PROCESS-NAME,com.coolapk.market
+  - PROCESS-NAME,com.miHoYo.HSoDv2.mix
