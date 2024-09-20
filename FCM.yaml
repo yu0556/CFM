@@ -14,5 +14,7 @@ payload:
   - DOMAIN-KEYWORD,wwentua
   - DOMAIN-KEYWORD,123pan
   - DOMAIN-KEYWORD,osslan
-  - PROCESS-NAME,com.emay.wxsy.topon
   - DOMAIN-SUFFIX,windows.com
+  - DOMAIN-SUFFIX,coolapk.com
+  - DOMAIN-SUFFIX,coolapkmarket.com
+  - DOMAIN-SUFFIX,coolapkmarket.net
