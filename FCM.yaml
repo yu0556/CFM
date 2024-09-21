@@ -5,16 +5,4 @@ payload:
   # - DOMAIN-SUFFIX,googleapis.cn
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,microsoft
-  - PROCESS-NAME,com.tencent.mm
-  - PROCESS-NAME,com.coolapk.market
-  - PROCESS-NAME,com.miHoYo.HSoDv2.mix
-  - DOMAIN-SUFFIX,wwentua.com
-  - DOMAIN-KEYWORD,ctyun
-  - DOMAIN-KEYWORD,lanzou
-  - DOMAIN-KEYWORD,wwentua
-  - DOMAIN-KEYWORD,123pan
-  - DOMAIN-KEYWORD,osslan
-  - DOMAIN-SUFFIX,windows.com
-  - DOMAIN-SUFFIX,coolapk.com
-  - DOMAIN-SUFFIX,coolapkmarket.com
-  - DOMAIN-SUFFIX,coolapkmarket.net
+  
