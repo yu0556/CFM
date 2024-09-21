@@ -3,11 +3,8 @@ payload:
   # - DOMAIN,mtalk.google.com
   # - IP-CIDR,64.233.177.188/32,no-resolve
   # - DOMAIN-SUFFIX,googleapis.cn
-  - DOMAIN-SUFFIX,wwentua.com
   - DOMAIN-KEYWORD,ctyun
   - DOMAIN-KEYWORD,lanzou
   - DOMAIN-KEYWORD,wwentua
-  - DOMAIN-KEYWORD,123pan
-  - DOMAIN-KEYWORD,osslan
-  - PROCESS-NAME,com.tencent.mm
-  - PROCESS-NAME,com.emay.wxsy.topon
+
+ 
