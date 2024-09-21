@@ -6,9 +6,8 @@ payload:
   - DOMAIN-KEYWORD,ctyun
   - DOMAIN-KEYWORD,lanzou
   - DOMAIN-KEYWORD,wwentua
-  - DOMAIN-SUFFIX,coolapk.com
-  - DOMAIN-SUFFIX,coolapkmarket.com
-  - DOMAIN-SUFFIX,coolapkmarket.net
+  - DOMAIN-KEYWORD,coolapk
+  
   
 
  
