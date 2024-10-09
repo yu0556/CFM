@@ -5,4 +5,4 @@ payload:
   # - DOMAIN-SUFFIX,googleapis.cn
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,microsoft
-  
+  - DOMAIN-SUFFIX,alphatvapp.top
