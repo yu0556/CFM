@@ -7,6 +7,7 @@ payload:
   - DOMAIN-KEYWORD,lanzou
   - DOMAIN-KEYWORD,wwentua
   - DOMAIN-KEYWORD,coolapk
+  - DOMAIN-KEYWORD,tailscale
   - DOMAIN-SUFFIX,alphatvapp.top
   - IP-CIDR,69.10.32.214
   - IP-CIDR,61.160.148.90
