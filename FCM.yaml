@@ -6,3 +6,5 @@ payload:
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,microsoft
   - DOMAIN-SUFFIX,alphatvapp.top
+  - DOMAIN-KEYWORD,tail2ea618
+  - DOMAIN-KEYWORD,tailscale
