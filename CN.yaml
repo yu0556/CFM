@@ -8,9 +8,8 @@ payload:
   - DOMAIN-KEYWORD,wwentua
   - DOMAIN-KEYWORD,coolapk
   - DOMAIN-SUFFIX,alphatvapp.top
-  - IP-CIDR,69.10.32.214
-  - IP-CIDR,61.160.148.90
-  - IP-CIDR,221.228.32.13
+  - IP-CIDR,104.243.41.35
+  
   
   
 
