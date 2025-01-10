@@ -5,5 +5,8 @@ payload:
   # - DOMAIN-SUFFIX,googleapis.cn
   # - DOMAIN-KEYWORD,ctyun
   - DOMAIN-KEYWORD,lanzou
-  - IP-CIDR,120.25.115.20/32,no-resolve  #燕云
-  - IP-CIDR,216.239.35.0/32,no-resolve  #燕云
+  - IP-CIDR,120.25.115.20/32  #燕云
+  - IP-CIDR,216.239.35.0/32 #燕云
+  - IP-CIDR,59.111.42.197/32  #燕云
+  - IP-CIDR,42.186.134.73/32 #燕云
+  - IP-CIDR,198.18.6.212/32 #燕云
