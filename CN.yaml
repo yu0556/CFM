@@ -5,6 +5,7 @@ payload:
   # - DOMAIN-SUFFIX,googleapis.cn
   # - DOMAIN-KEYWORD,ctyun
   - DOMAIN-KEYWORD,lanzou
+  - DOMAIN-KEYWORD,wwentua
   - IP-CIDR,120.25.115.20/32  #燕云
   - IP-CIDR,216.239.35.0/32 #燕云
   - IP-CIDR,59.111.42.197/32  #燕云
