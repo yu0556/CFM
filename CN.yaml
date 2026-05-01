@@ -13,6 +13,7 @@ payload:
   - IP-CIDR,198.18.6.212/32,no-resolve
   #鸣潮
   - IP-CIDR,106.54.0.0/16,no-resolve
+  - IP-CIDR,101.34.0.0/16,no-resolve
   - IP-CIDR,111.229.0.0/16,no-resolve
   - IP-CIDR,111.231.0.0/16,no-resolve
   - IP-CIDR,49.235.0.0/16,no-resolve
